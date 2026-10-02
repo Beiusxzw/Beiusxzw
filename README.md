@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 👨‍🎓 I'm studying PhD in Bioinformatics.
+- 👨‍🎓 I'm a post-doc at the European Molecular Biology Laboratory (EMBL) and Deutsches Krebsforschungszentrum (DKFZ).
